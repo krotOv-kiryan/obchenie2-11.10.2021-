@@ -6,7 +6,7 @@ using System.Threading;
 
 namespace obchenie2
 {
-    class Program //аа всё страшно. потом как-нибудь может быть когда-нибудь всё же вохможно...,,,,доделаю
+    class Program //аа всё страшно. потом как-нибудь может быть когда-нибудь всё же вохможно...,,,,доделаю 1
     {//Client
         static void Main(string[] args)
         {
